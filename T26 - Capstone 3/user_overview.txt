@@ -1,0 +1,31 @@
+Total number of users: 4
+Total number of tasks: 11
+
+admin
+Total number of tasks: 3
+Percentage of total tasks: 27.27%
+Percentage of completed tasks: 0.0%
+Percentage of incomplete tasks: 100.0%
+Percentage of incomplete and overdue tasks: 100.0%
+
+user1
+Total number of tasks: 2
+Percentage of total tasks: 18.18%
+Percentage of completed tasks: 50.0%
+Percentage of incomplete tasks: 50.0%
+Percentage of incomplete and overdue tasks: 0.0%
+
+user2
+Total number of tasks: 5
+Percentage of total tasks: 45.45%
+Percentage of completed tasks: 20.0%
+Percentage of incomplete tasks: 80.0%
+Percentage of incomplete and overdue tasks: 60.0%
+
+user3
+Total number of tasks: 1
+Percentage of total tasks: 9.09%
+Percentage of completed tasks: 100.0%
+Percentage of incomplete tasks: 0.0%
+Percentage of incomplete and overdue tasks: 0.0%
+
